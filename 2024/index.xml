@@ -1,0 +1,24 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Hec&#39;s Craft</title>
+	<link>https://heccraft.com/2024/</link>
+	<description>Recent content in 2024s on Hec&#39;s Craft</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Thu, 07 Nov 2024 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://heccraft.com/2024/index.xml" rel="self" type="application/rss+xml" />
+	<item>
+		<title>Resetting?</title>
+		<link>https://heccraft.com/2024/resetting/</link>
+		<pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+		
+		<guid>https://heccraft.com/2024/resetting/</guid>
+		<description>&lt;h1 id=&#34;resetting&#34;&gt;Resetting?&lt;/h1&gt;
+&lt;p&gt;I figured I may as well start this website thing. I made a &lt;a href=&#34;https://bsky.app/profile/heccraft.com&#34;&gt;bluesky&lt;/a&gt; account with this domain, and thought &amp;ldquo;maybe it&amp;rsquo;d be cool to put that website that I used to have back up.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s no information here yet. Just look at the header if you want any contacts or whatever.&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
